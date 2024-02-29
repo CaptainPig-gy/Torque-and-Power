@@ -7,3 +7,6 @@
 </h6>
 
 ### The purpose of this research was to determine the maximum Power and Torque that can be produced from a four-stroke four cylinder Honda Civic Engine. This program takes manufacturer data ranging from 1000 to 7000 rpm to visualize the relationship. After some research it was found that the 1.8L 4-cylinder engine was capable of producing 174Nm (128lb-ft) of torque and 140 horse power which is accurate to what was advertised for the car on release.
+
+
+###### https://www.automobile-catalog.com/curve/2013/1600490/honda_civic_lx_sedan.html#gsc.tab=0
